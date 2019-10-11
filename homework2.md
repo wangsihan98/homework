@@ -373,7 +373,7 @@ World Bank Data（世界银行开放数据搜索网站）  https://data.worldban
 
 数据页面：http://data.stats.gov.cn/easyquery.htm?cn=B01
 
-![picture](https://github.com/wangsihan98/week2-homework/blob/master/data1.png)
+![picture](https://github.com/wangsihan98/homework/blob/master/homework2-data1.png)
 
 计算步骤：
 
@@ -384,7 +384,7 @@ World Bank Data（世界银行开放数据搜索网站）  https://data.worldban
 
 将数据放至excel中统一计算，得出
 
-![picture](https://github.com/wangsihan98/week2-homework/blob/master/data3.png)
+![picture](https://github.com/wangsihan98/homework/blob/master/homework2-data3.png)
 
 ### 2. 名义GDP同比增速
 
@@ -392,7 +392,7 @@ World Bank Data（世界银行开放数据搜索网站）  https://data.worldban
 
 数据页面：http://data.stats.gov.cn/easyquery.htm?cn=B01
 
-![picture](https://github.com/wangsihan98/week2-homework/blob/master/data2.png)
+![picture](https://github.com/wangsihan98/homework/blob/master/homework2-data2.png)
 
 计算步骤：
 
@@ -403,5 +403,5 @@ World Bank Data（世界银行开放数据搜索网站）  https://data.worldban
 
 将数据放至excel中统一计算，得出
 
-![picture](https://github.com/wangsihan98/week2-homework/blob/master/data4.png)
+![picture](https://github.com/wangsihan98/homework/blob/master/homework2-data4.png)
 
