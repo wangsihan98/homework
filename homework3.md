@@ -8,7 +8,7 @@
 
 - Hanabi
 
-! [image] (https://github.com/wangsihan98/homework/blob/master/homework3-picture1.jpg)
+![image](https://github.com/wangsihan98/homework/blob/master/homework3-picture1.jpg)
 
 我用Hanabi中的饼图呈现了IMDB中各类型的电影数量。
 
@@ -17,7 +17,7 @@
 
 - 图表秀
 
-! [image] (https://github.com/wangsihan98/homework/blob/master/homework3-picture2.png)
+![image](https://github.com/wangsihan98/homework/blob/master/homework3-picture2.png)
 
 我用图表秀中的气泡图呈现了IMDB黑色电影（Film Noir）的评分与获奖情况，气泡的大小代表参与评分的人数。
 
