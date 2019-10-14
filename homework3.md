@@ -1,3 +1,27 @@
+## 选择的数据集：
+
+IMDB Movies Dataset
+
+这个数据集里共14762条数据，清洗数据（去掉信息不全的数据，去掉类别为游戏和电视节目）后，共有10822条数据。
+
+数据集中统计了每条数据的如下性质：电影名称（words In Title）、imdb网址链接（url）、评分（imdb Rating）、打分人数（rating Count）、时长（duration）、年份（year）、类别（type）、获奖数量（nr Of Wins）、提名数量（nr Of Nominations）、照片数量（nr Of Photos）、新闻报道数量（nr Of News Articles）、用户评论数量（nr Of User Reviews）、类型数量（nr Of Genre）。后几列分别是类型的名称：Action、Adult	、Adventure、Animation、Biography、Comedy、Crime、Documentary、Drama、Family、Fantasy、Film Noir、Game Show、History、Horror、Music、Musical、Mystery、News、Reality TV、Romance、Sci-Fi、Short、Sport、Talk Show、Thriller、War、Western。
+
+## 使用的工具、呈现和使用体会
+
+- Hanabi
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 免费可视化图表工具
 
 #### 纯可视化图表生成类
@@ -64,10 +88,6 @@ Highcharts同样是可视化库，只不过是国外的，商用的话需要付�
 
 - R-ggplot2
 
-- R Shiny
-
-R Shiny是一个开源软件包，它提供了使用R语言来构建数据可视化，通过交互式图表和应用程序的Web框架建立。该工具可帮助我们将分析转换为时尚的交互式Web视觉效果，而无需我们深入地去了解HTML、CSS或JavaScript。类似于电子表格，这种反应式编程模型可以让我们轻松地操作数据，而无需每次等待整个页面的重新加载。随着新零售的到来，我们已经看到零售行业内不断地更新数据，并寻找能够成功每分钟更新的平台。
-
 - Python
 
 - D3
@@ -76,14 +96,3 @@ D3代表数据驱动文档，是一个JavaScript库，它将任意数据绑定�
 
 
 
-
-
-## 选择的数据集：
-
-IMDB Movies Dataset
-
-这个数据集里共14762条数据，清洗数据（去掉信息不全的数据，去掉类别为游戏和电视节目）后，共有10822条数据。
-
-数据集中统计了每条数据的如下性质：电影名称（words In Title）、imdb网址链接（url）、评分（imdb Rating）、打分人数（rating Count）、时长（duration）、年份（year）、类别（type）、获奖数量（nr Of Wins）、提名数量（nr Of Nominations）、照片数量（nr Of Photos）、新闻报道数量（nr Of News Articles）、用户评论数量（nr Of User Reviews）、类型数量（nr Of Genre）。后几列分别是类型的名称：Action、Adult	、Adventure、Animation、Biography、Comedy、Crime、Documentary、Drama、Family、Fantasy、Film Noir、Game Show、History、Horror、Music、Musical、Mystery、News、Reality TV、Romance、Sci-Fi、Short、Sport、Talk Show、Thriller、War、Western。
-
-## 
