@@ -27,7 +27,7 @@
 
 ![image](https://github.com/wangsihan98/homework/blob/master/homework3-picture3.png)
 
-[具体数据链接](file:///D:/%E5%A4%A7%E5%AD%A6/%E5%8F%AF%E8%A7%86%E5%8C%96%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%BA%94%E7%94%A8/radar.html)
+[具体数据链接] (file:///D:/%E5%A4%A7%E5%AD%A6/%E5%8F%AF%E8%A7%86%E5%8C%96%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%BA%94%E7%94%A8/radar.html)
 
 我选取了黑色电影（Film Noir）中评分较高的两部电影，日落大道和双重赔偿。这两部都是比利·怀尔德导演的。我通过新闻报道数量、评论数量等数据，运用雷达图，对比了它们的知名度。
 
