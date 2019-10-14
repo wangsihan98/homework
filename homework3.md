@@ -1,6 +1,4 @@
-## 选择的数据集：
-
-IMDB Movies Dataset
+## 选择的数据集：IMDB Movies Dataset
 
 这个数据集里共14762条数据，清洗数据（去掉信息不全的数据，去掉类别为游戏和电视节目）后，共有10822条数据。
 
@@ -10,13 +8,22 @@ IMDB Movies Dataset
 
 - Hanabi
 
+! [picture1](https://github.com/wangsihan98/homework/blob/master/homework3-picture1.jpg)
+
+我用Hanabi中的饼图呈现了IMDB中各类型的电影数量。
+
+在使用过程中，我觉得Hanabi这款可视化工具比较简单，容易操作，但难以呈现出复杂的图表，只能导入表格，得出信息量较少的折线图、条形图、饼图、气泡图等。数据图表的呈现也较为固定，不够灵活，无法自己绘制更为美观的图表。
 
 
+- 图表秀
 
+! [picture2](https://github.com/wangsihan98/homework/blob/master/homework3-picture2.png)
 
+我用图表秀中的气泡图呈现了IMDB黑色电影（Film Noir）的评分与获奖情况，气泡的大小代表参与评分的人数。
 
+图表秀中的图表样式比Hanabi多，简单，易操作，但其中有些模板的使用需要付费。
 
-
+- Echarts
 
 
 
