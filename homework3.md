@@ -6,7 +6,7 @@
 
 ## 使用的工具、呈现和使用体会
 
-#### Hanabi
+### 1.Hanabi
 
 ![image](https://github.com/wangsihan98/homework/blob/master/homework3-picture1.jpg)
 
@@ -24,7 +24,7 @@
 
 总体来说，Hanabi是一个可以快速上手制作可视化图表的工具，不需要编程和写代码的基础，但它不能完成大量数据的呈现，灵活性差。
 
-#### 图表秀
+### 2.图表秀
 
 ![image](https://github.com/wangsihan98/homework/blob/master/homework3-picture2.png)
 
@@ -38,7 +38,7 @@
 
 图表秀的使用也分为两部分：数据编辑和属性设置。它对于上传Excel和SCV的文件大小没有限制，但上传数据过多，也会出现加载过慢的情况。属性设置与Hanabi类似。
 
-#### Echarts
+### 3.Echarts
 
 ![image](https://github.com/wangsihan98/homework/blob/master/homework3-picture3.jpg)
 
@@ -52,7 +52,7 @@ Echarts是一个在线可视化工具，但不宜操作，需要写javascript代
 
 Echarts中的模板和主题比Hanabi和图表秀丰富得多，可以呈现较为复杂的数据，图形的运用也更为灵活，这充分显示了代码和编程给予可视化工具的巨大创造力，以及创作者更强的主动性。
 
-#### Tableau
+### 4.Tableau
 
 ![image](https://github.com/wangsihan98/homework/blob/master/homework3-picture4.jpg)
 
