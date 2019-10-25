@@ -6,6 +6,10 @@
 
 </details>
 
+<details>
+ 
+<summary>过程步骤</summary>
+
 ### 过程步骤
 
 1.数据来源
@@ -32,5 +36,12 @@
 
 3.数据分析和呈现的步骤
 
+</details>
+
+<details>
+ 
+<summary>选择报道角度的思考过程</summary>
+
 ### 选择报道角度的思考过程
 
+</details>
