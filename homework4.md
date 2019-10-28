@@ -14,6 +14,8 @@
 
 ![image](https://github.com/wangsihan98/homework/blob/master/homework4-picture2.jpg)
 
+![image](https://github.com/wangsihan98/homework/blob/master/homework4-picture3.jpg)
+
 城市垃圾人均产生量与人均GDP基本呈正相关，但东莞、西安却不太符合这一规律。这表明城市垃圾的产生受多方面因素的影响，不能简单只把它与GDP相连。但人均垃圾产生量也从侧面反映了一个城市的经济发展程度。
 
 同时，我们从图表中可以看出，广东省的四个市居于人均垃圾产生量的前四位，这肯定不是巧合，与广东近几年的发展是离不开的。
