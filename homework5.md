@@ -56,7 +56,7 @@
 
 [2] [Don Cipriani, Children's Rights and the Minimum Age of Criminal Responsibility: A Global Perspective, Bodmin, Cornwall.2008.](https://academic.oup.com/bjc/article-abstract/50/5/990/471666?redirectedFrom=fulltext)
 
-[3] [张晓霞，《全球视角下刑事责任最低年龄实践中的困境》，载于《青少年犯罪问题》，2011年](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2011&filename=FZWT201101014&v=MDAyNThSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VadVpuRnkzbVZydlBJemZjZXJHNEg5RE1ybzlFWUk=)
+[3] [张晓霞：《全球视角下刑事责任最低年龄实践中的困境》，载于《青少年犯罪问题》，2011年](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2011&filename=FZWT201101014&v=MDAyNThSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VadVpuRnkzbVZydlBJemZjZXJHNEg5RE1ybzlFWUk=)
 
 [4] [孙昌军、周亮：《我国未成年人犯罪率的统计分析》，载于《青少年犯罪问题》，2004年](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2004&filename=FZWT200405008&v=MjE1MDZZUzdEaDFUM3FUcldNMUZyQ1VSTE9lWnVabkZDcmtWNzdLSXpmY2VyRzRIdFhNcW85RmJJUjhlWDFMdXg=)
 
