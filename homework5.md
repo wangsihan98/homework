@@ -24,6 +24,8 @@
 
 <iframe src='https://public.flourish.studio/story/119285/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/story/119285/?utm_source=embed&utm_campaign=story/119285' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
+<iframe src="https://www.dydata.io/show/c_c435ba0783c259542aa5df453d7fb4cb" width="500" height="400" scrolling="no" frameborder="0" align=""></iframe>
+
 2006年与2012年，我们对《未成年人保护法》进行了两次修改，与图表中的峰值相对应，政府开始强调“教育为主，惩罚为辅”的政策导向，对于未成年人犯罪的不捕不诉率提高，这样的“轻缓化”政策在客观上降低了法院的统计数据。
 
 与国际数据对比，运用心理学分析，甚至直接拿出我国统计的未成年人犯罪数量变化情况，仍无法讨论清楚起刑年龄是否应下调。中国坚持14岁的最低刑责年龄已经40年，刑法中的规定不会轻易改变，倒不如换个角度，去关注未成年人相关法律的诸多不完善之处。《未成年人保护法》被称为“没有牙齿的保护条例”，导向型的保护条例导致了其操作性弱。为避免“小猫逗完老鼠后仍一口吞掉”的“逗鼠困境”和“养大了再打，养肥了再杀”的“养猪困境”，保护未成年人的法律究竟要怎样修订？
