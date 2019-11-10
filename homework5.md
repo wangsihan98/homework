@@ -18,7 +18,7 @@
 
 还有人表示，根据国家统计局颁布的2013-2017年《中国儿童发展纲要（2011年-2020年）》，我国近十年来未成年人犯罪率呈下降趋势，降低刑事责任年龄或许没有必要。但参考1990年到现在，近30年未成年人犯罪数量的变化，可以得知1990-2008年，我国未成年人犯罪数量在曲折中增长，2009-2016年中，下降后小幅度增长，最后下降至与1997年相近。为什么数量会在2008年后下跌？
 
-<amp-iframe sandbox='allow-scripts allow-same-origin' layout=responsive resizable noloading src='https://public.flourish.studio/story/119281/embed?auto=1' width=400 height=300><amp-img layout=fixed height=64 width=64 src='https://public.flourish.studio/resources/bosh.svg' placeholder style='margin: auto'></amp-img><div overflow></div></amp-iframe><p><a href='https://public.flourish.studio/story/119281/?utm_source=embed&utm_campaign=story/119281'><amp-img layout=fixed height=16 width=105 src='https://public.flourish.studio/resources/made_with_flourish.svg' alt='Made with Flourish'></amp-img></a></p>
+<div class="flourish-embed" data-src="story/119285"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 <amp-iframe sandbox='allow-scripts allow-same-origin' layout=responsive resizable noloading src='https://public.flourish.studio/story/119285/embed?auto=1' width=400 height=300><amp-img layout=fixed height=64 width=64 src='https://public.flourish.studio/resources/bosh.svg' placeholder style='margin: auto'></amp-img><div overflow></div></amp-iframe><p><a href='https://public.flourish.studio/story/119285/?utm_source=embed&utm_campaign=story/119285'><amp-img layout=fixed height=16 width=105 src='https://public.flourish.studio/resources/made_with_flourish.svg' alt='Made with Flourish'></amp-img></a></p>
 
