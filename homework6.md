@@ -28,12 +28,9 @@
 
 
 
-	library(ggplot2)
-
-	setwd("D:/大学/可视化软件工具与应用/第十一周/第二张图")
-
-	datatwo <- read.csv("未成年人犯罪.csv")
-
+	library(ggplot2)<br>
+	setwd("D:/大学/可视化软件工具与应用/第十一周/第二张图")<br>
+	datatwo <- read.csv("未成年人犯罪.csv")<br>
 	View(datatwo)
 
 	pa <- ggplot(datatwo, aes(x =年份, y = 未成年人犯罪数量)) + 
