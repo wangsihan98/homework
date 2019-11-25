@@ -21,21 +21,22 @@
 - R中做的图
 
 - 代码
-library(ggplot2)
 
-setwd("D:/大学/可视化软件工具与应用/第十一周/第二张图")
+	library(ggplot2)
 
-datatwo <- read.csv("未成年人犯罪.csv")
+	setwd("D:/大学/可视化软件工具与应用/第十一周/第二张图")
 
-View(datatwo)
+	datatwo <- read.csv("未成年人犯罪.csv")
 
-pa <- ggplot(datatwo, aes(x =年份, y = 未成年人犯罪数量)) + 
+	View(datatwo)
 
-  geom_line(colour = "#1d6996")
+	pa <- ggplot(datatwo, aes(x =年份, y = 未成年人犯罪数量)) + 
+
+  	geom_line(colour = "#1d6996")
   
-pa
+	pa
 
-pa +
+	pa +
 
 	ggtitle("1990-2017年中国未成年人犯罪数量变化") +
 	
