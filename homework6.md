@@ -38,26 +38,25 @@
 
 	pa <- ggplot(datatwo, aes(x =年份, y = 未成年人犯罪数量)) + 
 
-  	&ensp;geom_line(colour = "#1d6996")
+  	&ensp;&ensp;geom_line(colour = "#1d6996")
   
 	pa
 
 	pa +
 
-	ggtitle("1990-2017年中国未成年人犯罪数量变化") +
+	&ensp;&ensp;ggtitle("1990-2017年中国未成年人犯罪数量变化") +
 	
-	ylim(0, max(datatwo$未成年人犯罪数量)) +
+	&ensp;&ensp;ylim(0, max(datatwo$未成年人犯罪数量)) +
 	
-	geom_point(colour ="#1d6996") +
+	&ensp;&ensp;geom_point(colour ="#1d6996") +
 	
-	geom_vline(aes(xintercept = 2008), colour = "black",linetype = "dashed", size = 0.5) +
+	&ensp;&ensp;geom_vline(aes(xintercept = 2008), colour = "black",linetype = "dashed", size = 0.5) +
 	
-	geom_vline(aes(xintercept = 2011), colour = "black",linetype = "dashed", size = 0.5) +
+	&ensp;&ensp;geom_vline(aes(xintercept = 2011), colour = "black",linetype = "dashed", size = 0.5) +
 	
-	annotate("text", x = 2007, y = 50000, label = "2008", size = 4) +
+	&ensp;&ensp;annotate("text", x = 2007, y = 50000, label = "2008", size = 4) +
 	
-	annotate("text", x = 2012, y = 37500, label = "2011", size = 4) +
+	&ensp;&ensp;annotate("text", x = 2012, y = 37500, label = "2011", size = 4) +
 	
-	theme(plot.title = element_text(size = 16))
+	&ensp;&ensp;theme(plot.title = element_text(size = 16))
 	
-```
