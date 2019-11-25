@@ -26,7 +26,7 @@
 
 - 代码
 
-
+```python
 
 	library(ggplot2)<br>
 	setwd("D:/大学/可视化软件工具与应用/第十一周/第二张图")<br>
@@ -44,4 +44,4 @@
 	&ensp;&ensp;annotate("text", x = 2007, y = 50000, label = "2008", size = 4) +<br>
 	&ensp;&ensp;annotate("text", x = 2012, y = 37500, label = "2011", size = 4) +<br>
 	&ensp;&ensp;theme(plot.title = element_text(size = 16))
-	
+```	
