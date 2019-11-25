@@ -27,7 +27,7 @@ library(ggplot2)
 setwd("D:/大学/可视化软件工具与应用/第十一周/第二张图")
 datatwo <- read.csv("未成年人犯罪.csv")
 View(datatwo)
-pa <- ggplot(datatwo, aes(x =年份, y = 未成年人犯罪数量)) + 
+pa <- ggplot(datatwo, aes(x = 年份, y = 未成年人犯罪数量)) + 
 	geom_line(colour = "#1d6996")
 pa
 pa +
