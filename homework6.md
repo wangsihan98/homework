@@ -26,8 +26,9 @@
 
 - 代码
 
+```python
 
-library(ggplot2)
+	library(ggplot2)
 
 	setwd("D:/大学/可视化软件工具与应用/第十一周/第二张图")
 
@@ -59,3 +60,4 @@ library(ggplot2)
 	
 	theme(plot.title = element_text(size = 16))
 	
+```
