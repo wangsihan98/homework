@@ -26,7 +26,7 @@
 
 - 代码
 
-```python
+
 
 	library(ggplot2)
 
@@ -38,7 +38,7 @@
 
 	pa <- ggplot(datatwo, aes(x =年份, y = 未成年人犯罪数量)) + 
 
-  	geom_line(colour = "#1d6996")
+  	&ensp;geom_line(colour = "#1d6996")
   
 	pa
 
