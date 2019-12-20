@@ -34,7 +34,7 @@
 
 &emsp;&emsp;同时，30年代上海影业学习美国电影放映业的“轮次”制度，即根据出价的高低，得到影片的首映权和专映权，影院分为首轮、二轮、三轮、四轮等，静安寺附近高档别墅区的电影院最为高档，中档电影院有兰心、融光，票价较低，档次更低的三轮以下电影院包括威利、辣斐等，观众以普通市民为主，至此电影院分布形成了错落有致、轮次分明的网络。
 
-![image](https://github.com/wangsihan98/homework/blob/master/final-picture-five.jpg)
+![image](https://github.com/wangsihan98/homework/blob/master/final-image-five.jpg)
 
 &emsp;&emsp;正规剧院的出现使得电影在中国中下层市民阶级中得到迅速普及，1930年代，电影在中国从南到北，由沿海到内地，逐渐流传开来。但由于战争频发、社会动荡，大多影院被外国人控制或转手，能苟延残喘下来的并不多。
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;2018年，作为国家脱贫攻坚战星光行动中的一部分，“天堂电影院”公益项目诞生，发起者程城团队与投资方为贫困地区的孩子们搭建起作为半永久场地使用的大型帐篷，配备好所有放映设备，并提供上百部正版片源。一切就绪后，电影院全权移交给当地人使用。至2019年底，他们已经在新疆塔什库尔干、西藏拉萨、四川凉山等十一个地方搭建了小型影院，供人们观影。
 
-![image](https://github.com/wangsihan98/homework/blob/master/final-image-six.jpg)
+![image](https://github.com/wangsihan98/homework/blob/master/final-picture-six.jpg)
 
 #### 屏幕的数量变化
 
