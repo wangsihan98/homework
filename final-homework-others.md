@@ -1,6 +1,16 @@
+<details>
+ 
+<summary>作业链接</summary>
+
 ##### 作业链接
 
 中国电影银幕之变  https://github.com/wangsihan98/homework/blob/master/final-homework.md
+
+</details>
+
+<details>
+ 
+<summary>过程描述</summary>
 
 ##### 选题想法、资料搜集过程
 
@@ -127,6 +137,12 @@ https://107cine.com/stream/109778/
 
 8.《县级影院建设与改造问题研究》，于丽、刘扬、王煊编著，中国电影出版社。
 
+</details>
+
+<details>
+ 
+<summary>用到的数据</summary>
+
 #### 用到的数据（链接或文件）
 
 1. cinity官方微博
@@ -164,3 +180,4 @@ http://bzdt.ch.mnr.gov.cn/index.html
 
 13.《大光明•光影八十年》，上海大光明电影院有限公司编，同济大学出版社，P20。
 
+</details>
