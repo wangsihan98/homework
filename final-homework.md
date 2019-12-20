@@ -12,7 +12,7 @@
 
 &emsp;&emsp;20世纪50年代，电视的崛起使得电影业产生动荡，电影公司设法改变银幕比例以谋出路，1952年画面比为2.59:1的宣传片《这是宽银幕立体电影》出现，引发了行业内的宽银幕之争。1.66:1、2.35:1、1.85:1、2.20:1、2.76:1的宽高比相继出现，丰富了电影的审美取向。如今，大部分电影采用1.85:1或2.35:1的比例，2016年美国上映的电影中有71%的宽高比为2.35:1，20%的宽高比为1.85:1。
 
-![image](https://github.com/wangsihan98/homework/blob/master/final-image-one.jpg)
+![image](https://github.com/wangsihan98/homework/blob/master/final-picture-one.jpg)
 
 &emsp;&emsp;20世纪80年代，美国电影电视工程师协会的工程师KernsH. Powers建议采用16:9宽高比作为折中，最终这种比例成为DVD等影音产品的默认屏幕宽高比。
 
