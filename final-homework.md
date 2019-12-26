@@ -68,3 +68,19 @@
 
 &emsp;&emsp;由此可知，电影屏幕数量的增加无法完全概括国内电影市场的巨大潜力和观众观影水平在世界中的位置，但那些已有的改变却让我们看到了一个更加丰富与多样的未来。银幕物理规格的变化引领我们进入宽阔真实的电影世界，而电影院的普及使得更多人有机会感受银幕的巨大魔力，不断更新的银幕数据更是表示我国电影正在向更好的方向发展。
 
+
+###### 数据来源：
+1. [cinity官方微博](https://weibo.com/p/1006067021923951/home?from=page_100606&mod=TAB#place)
+2. 《品牌影院经营——上海大光明光影80年》，余佳丽著，上海交通大学出版社。
+3. [中国电影发行放映协会网站](http://www.chinafilm.org.cn/Item/list.asp?id=1665)
+4. [艺恩网《2018中国电影市场城市热度趋势报告》](http://www.endata.com.cn/Market/reportDetail.html?bid=1d033646-ad2c-4785-8f03-f21cafce8f51)
+5. [天堂电影院共建计划官方微博](https://weibo.com/paradisecinema2018?topnav=1&wvr=6&topsug=1&is_all=1)
+6. [国家统计局《文化事业繁荣兴盛 文化产业快速发展——新中国成立70周年经济社会发展成就系列报告之八》](http://www.stats.gov.cn/tjsj/zxfb/201907/t20190724_1681393.html)
+7. [美国电影协会（MPAA）](https://www.afi.com/)
+8. 《2019中国电影产业研究报告》，中国电影出版社。
+9. [中国电影数据信息网](https://zgdypw.cn/#/root.html)
+10. 《电影票房营销》，夏卫国著，中国电影出版社，199页，部分国家和地区（主要城市）电影票价与月人均GNP对比
+11.[国家电影局](http://www.chinafilm.gov.cn/)
+12.[标准地图服务](http://bzdt.ch.mnr.gov.cn/index.html)
+13.《大光明•光影八十年》，上海大光明电影院有限公司编，同济大学出版社，P20。
+
